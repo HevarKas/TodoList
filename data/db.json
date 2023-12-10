@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "userId": 1,
+      "title": "Plan out your daily activities and priorities",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Keep track of work-related assignments and projects",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "Outline personal goals and milestones",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "title": "Organize tasks related to a specific project",
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "title": "Jot down items you need to buy",
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "title": "Note down various errands or tasks to complete outside your home",
+      "id": 6
+    }
+  ]
+}
